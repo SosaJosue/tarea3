@@ -1,0 +1,15 @@
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\bin\Debug\net6.0\tarea3.exe
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\bin\Debug\net6.0\tarea3.deps.json
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\bin\Debug\net6.0\tarea3.runtimeconfig.json
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\bin\Debug\net6.0\tarea3.dll
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\bin\Debug\net6.0\tarea3.pdb
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\tarea3.csproj.AssemblyReference.cache
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\tarea3.AssemblyInfoInputs.cache
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\tarea3.AssemblyInfo.cs
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\tarea3.csproj.CoreCompileInputs.cache
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\tarea3.dll
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\refint\tarea3.dll
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\tarea3.pdb
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\tarea3.genruntimeconfig.cache
+C:\Users\Josue\OneDrive\Escritorio\Programacion\Tarea3\tarea3\obj\Debug\net6.0\ref\tarea3.dll
